@@ -1,0 +1,1 @@
+export default function ChatPage() { return <div style={{ color: 'white' }}>Chat Page Loaded!</div>; }
