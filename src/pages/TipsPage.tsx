@@ -1,1 +1,0 @@
-export default function TipsPage() { return <div style={{ color: 'white' }}>Tips Page Loaded</div>; }
